@@ -1,0 +1,6 @@
+[package]
+name = "oxide"
+version = "0.1.0"
+authors = ["Jay Looney <jay.m.looney@gmail.com>"]
+
+[dependencies]
