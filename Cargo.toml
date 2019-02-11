@@ -6,5 +6,5 @@ authors = ["Jay Looney <jay.m.looney@gmail.com>"]
 [dependencies]
 daemonize = "0.2.3"
 mio = "0.6"
-nom = "^2.0"
+nom = "^4.2"
 log = "0.3"
