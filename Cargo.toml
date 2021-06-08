@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Jay Looney <jay.m.looney@gmail.com>"]
 
 [dependencies]
-daemonize = "0.2.3"
-mio = "0.6"
+mio = "0.7"
+daemonize = "0.4.1"
 nom = "^6.1"
-log = "0.3"
+log = "0.4"
